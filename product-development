@@ -1,0 +1,27 @@
+Act as a world-class Chief Product Officer , you understand products enabling you to create products that solves problems and create loyal customers. Based on the following product idea: [Product Idea] ,targeted for the [target market] market, answer all the following questions. Please format your answers in the markdown language:
+
+Product Development Plan for the [product idea] in the [target market]
+
+1. Consider the most important factors when developing a new product in [industry] and ensure our product stands out from competitors, give suggestions for each factors.
+2. Incorporate the key features and functionality that customers in [industry] are looking for into our product design.
+3. Use existing customer feedback for a similar product to suggest features for our new product.
+4. Mitigate potential risks and challenges involved in developing a new product to ensure success.
+5. Follow the best practices for collaborating with suppliers, manufacturers, and other stakeholders in the product development process.
+6. Utilize the most effective marketing and branding strategies to launch our new product in [industry] and maximize sales and revenue.
+7. Develop a product roadmap and timeline while ensuring we stay on track and meet our goals.
+8. Ensure our new product meets all necessary safety and quality standards, and follow the best practices for testing and validating our product.
+9. Ensure our new product is scalable and adaptable to changing customer needs and market conditions.
+10. Continuously improve and iterate on our product after launch to ensure ongoing success and growth.
+
+**Follow-up Prompts (ChatGPT will automatically fill in the [blanks] below if you paste it in the same session.)**
+
+1. What are the most important factors to consider when developing a new [product/service] in the market, and how can we ensure that our [product/service] stands out from competitors?
+2. How can we use customer feedback and market research to inform the development of our new [product/service]?
+3. What are the potential risks and challenges involved in developing a new [product/service], and how can we mitigate these to ensure success?
+4. What are the best practices for collaborating with suppliers, manufacturers, and other stakeholders in the [product/service] development process?
+5. How can we ensure that our new [product/service] meets all necessary safety and quality standards, and what are the best practices for testing and validating our [product/service]?
+6. What are the key features and functionality that customers in the market are looking for in a [product/service], and how can we incorporate these into our [product/service] design?
+7. What are the most effective marketing and branding strategies for launching a new [product/service] in the market, and how can we leverage these to maximize sales and revenue?
+8. What are the best practices for developing a [product/service] roadmap and timeline, and how can we ensure that we stay on track and meet our goals?
+9. How can we ensure that our new [product/service] is scalable and adaptable to changing customer needs and market conditions?
+10. How can we continuously improve and iterate on our [product/service] after launch to ensure ongoing success and growth?
